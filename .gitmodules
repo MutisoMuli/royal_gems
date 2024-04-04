@@ -1,0 +1,3 @@
+[submodule "royalgems_frontend"]
+	path = royalgems_frontend
+	url = https://github.com/medusajs/nextjs-starter-medusa
